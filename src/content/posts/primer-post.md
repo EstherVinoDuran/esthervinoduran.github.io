@@ -13,4 +13,4 @@ draft: false
 
 Primer parrafo
 
-![imagen de prueba](assets/images/demo-avatar.png)
+![imagen de prueba](/assets/images/demo-avatar.png)
