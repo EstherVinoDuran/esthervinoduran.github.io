@@ -1,5 +1,5 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# Acerca de mi
+Este es el blog de [Esther](https://www.linkedin.com/in/esther-feby-vino-duran-173447357/).
 
 ::github{repo="saicaca/fuwari"}
 

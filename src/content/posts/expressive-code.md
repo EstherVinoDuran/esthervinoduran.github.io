@@ -1,5 +1,5 @@
 ---
-title: Expressive Code Example
+title: Ejemplo primer blog
 published: 2024-04-10
 description: How code blocks look in Markdown using Expressive Code.
 tags: [Markdown, Blogging, Demo]
@@ -7,7 +7,7 @@ category: Examples
 draft: false
 ---
 
-Here, we'll explore how code blocks look using [Expressive Code](https://expressive-code.com/). The provided examples are based on the official documentation, which you can refer to for further details.
+Hola este es un blog de ejemplo para ver si funciona [Expressive Code](https://expressive-code.com/). The provided examples are based on the official documentation, which you can refer to for further details.
 
 ## Expressive Code
 

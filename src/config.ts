@@ -53,9 +53,9 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	avatar: "https://media.licdn.com/dms/image/v2/D4E03AQFZvMFHlBOrpw/profile-displayphoto-crop_800_800/B4EZfWbpN.HgAM-/0/1751649262147?e=1756339200&v=beta&t=6qegI7QVwd7--fmyKI-NdMH7TUuhnHPGe3gMHcu9JcY",//"assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	name: "Esther Vino Duran",
+	bio: "Hola Bienvenidos a mi blog.",
 	links: [
 		{
 			name: "Twitter",
